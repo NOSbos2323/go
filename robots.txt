@@ -1,0 +1,5 @@
+# Employment & Jobs Portal — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://nosbos2323.github.io/go/sitemap.xml
